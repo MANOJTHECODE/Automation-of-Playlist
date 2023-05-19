@@ -8,8 +8,8 @@ In today's digital era, music streaming platforms like Spotify offer vast librar
 The objective of this research is to automate the process of playlist creation on Spotify by leveraging high-dimensional data and CLustering algorithms.
 
 # Methodology:
-Data collection: Extraction of audio feature data from the Spotify API for songs in a given playlist.
-Feature selection: Identifying relevant audio features such as popularity, liveness, loudness, speechiness, tempo, and valence.
-Preprocessing: Normalization and scaling of feature data to ensure comparability.
-K-means clustering: Applying the K-means algorithm to group songs into clusters based on their feature similarities.
-Playlist generation: Assigning songs to clusters and creating smaller playlists within each cluster.
+## Data collection: Extraction of audio feature data from the Spotify API for songs in a given playlist.
+## Feature selection: Identifying relevant audio features such as popularity, liveness, loudness, speechiness, tempo, and valence.
+## Preprocessing: Normalization and scaling of feature data to ensure comparability.
+## K-means clustering: Applying the K-means algorithm to group songs into clusters based on their feature similarities.
+## Playlist generation: Assigning songs to clusters and creating smaller playlists within each cluster.
