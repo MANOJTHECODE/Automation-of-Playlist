@@ -13,3 +13,9 @@ The objective of this research is to automate the process of playlist creation o
 ##### Preprocessing: Normalization and scaling of feature data to ensure comparability.
 ##### K-means clustering: Applying the K-means algorithm to group songs into clusters based on their feature similarities.
 ##### Playlist generation: Assigning songs to clusters and creating smaller playlists within each cluster.
+
+# Results:
+The project has been successfully implemented and tested, and the results are promising. 
+The playlists created by the algorithm are highly personalized and reflect the user's music preferences. The algorithm can also adapt to changes in the user's preferences and update the playlists accordingly.
+
+
