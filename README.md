@@ -16,6 +16,7 @@ The objective of this research is to automate the process of playlist creation o
 
 # Results:
 The project has been successfully implemented and tested, and the results are promising. 
-The playlists created by the algorithm are highly personalized and reflect the user's music preferences. The algorithm can also adapt to changes in the user's preferences and update the playlists accordingly.
+The playlists created by the algorithm are highly personalized and reflect the user's music preferences. The algorithm can also adapt to changes in the user's preferences and update the playlists accordingly.![image](https://github.com/MANOJTHECODE/Automation-of-Playlist/assets/92300261/7892d219-c458-4b5c-b073-43b78d5ad773)
+
 
 
